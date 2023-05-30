@@ -1,3 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
+## 🎉 Welcome
+
+* [Start Here](README.md)
+
+## 🔴 RedTeam
+
+* [Placeholder](redteam/placeholder.md)
